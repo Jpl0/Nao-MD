@@ -32,30 +32,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['15085343332', 'R!kI bOt', true]]
 global.mods = []
-global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.prems = [15085343332]
+global.nomorbot = '15085343332'
+global.nomorown = '15085343332'
 global.nomorwa = '0'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'ShirokamiRyzen'
-global.namebot = 'Nao-Botz V5'
-global.wm = '© NaoBotz By ShirokamiRyzen'
+global.author = 'R!kI Bot🤩'
+global.namebot = 'R!K! BOt🤩 V5'
+global.wm = '© Riki Bot By J0RDen'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-Bot\n+6285864034767`
-global.stickauth = `© NaoBotz By ShirokamiRyzen`
+global.stickauth = `© R!ki bot V5`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 /*============= OWNER INFO =============*/
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'Riki'
+global.nameown2 = 'R!ki'
 /*============= MEDIA LINK =============*/
 global.Linkgc = 'Bentar'
 global.lynk = ''
@@ -69,12 +69,12 @@ global.sdc = '-' //discord
 global.snh = 'https://www.instagram.com/ryzen_vermillion'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pdana = '15085343332'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = '15085343332'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
+global.ppulsa = '15085343332'
+global.ppulsa2 = '15085343332'
 global.psaweria = '-'
 
 
@@ -173,9 +173,9 @@ global.thumblvlup = [
 ]
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "https://www.instagram.com/ryzen_vermillion"
+global.urlnya = "https://www.instagram.com/ryzillion"
 global.dtc = 'CALL OWNER'
-global.phn = '0813 8730 7198'
+global.phn = '15085343332'
 
 
 /*============= JANGAN DIUBAH =============*/
